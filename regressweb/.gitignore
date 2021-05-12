@@ -1,0 +1,5 @@
+# this hidden folder contains your local, virtual environment
+.env
+
+# this hidden file contains sensitive keys and environmental config vars 
+your-app_project/.env
